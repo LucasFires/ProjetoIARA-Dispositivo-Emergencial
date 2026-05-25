@@ -1,6 +1,8 @@
 ### \# Projeto IARA - Dispositivo Emergencial Vestível
 
 
+![Capa do Projeto](assets/imgcapa.png)
+
 
 ##### \## Como Funciona?
 
