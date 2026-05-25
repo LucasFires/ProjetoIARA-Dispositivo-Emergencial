@@ -1,0 +1,34 @@
+com.btalert.app-jetified-profileinstaller-1.3.1-0 C:\Users\lucas\.gradle\caches\9.0.0\transforms\07af2f716fb10955fcb37b003b1cf339\transformed\jetified-profileinstaller-1.3.1\res
+com.btalert.app-core-runtime-2.2.0-1 C:\Users\lucas\.gradle\caches\9.0.0\transforms\0dc109c664a99e014822e995debf70f9\transformed\core-runtime-2.2.0\res
+com.btalert.app-transition-1.5.0-2 C:\Users\lucas\.gradle\caches\9.0.0\transforms\25075b965cbdd6e3e6079ed32c2b6cbb\transformed\transition-1.5.0\res
+com.btalert.app-appcompat-1.7.0-3 C:\Users\lucas\.gradle\caches\9.0.0\transforms\2cdfdbaf8966e1f5d26598d05b7e6270\transformed\appcompat-1.7.0\res
+com.btalert.app-lifecycle-livedata-2.6.2-4 C:\Users\lucas\.gradle\caches\9.0.0\transforms\323d263bdaf5b9f7a34ae124ecc35142\transformed\lifecycle-livedata-2.6.2\res
+com.btalert.app-jetified-savedstate-1.2.1-5 C:\Users\lucas\.gradle\caches\9.0.0\transforms\32d542665ae3978390fcbeaeb55e4058\transformed\jetified-savedstate-1.2.1\res
+com.btalert.app-lifecycle-livedata-core-2.6.2-6 C:\Users\lucas\.gradle\caches\9.0.0\transforms\353cb9c8d1fb39248e3d6c6d932b68eb\transformed\lifecycle-livedata-core-2.6.2\res
+com.btalert.app-jetified-appcompat-resources-1.7.0-7 C:\Users\lucas\.gradle\caches\9.0.0\transforms\447f0a11cd53deb4428c664a46982206\transformed\jetified-appcompat-resources-1.7.0\res
+com.btalert.app-jetified-core-ktx-1.13.1-8 C:\Users\lucas\.gradle\caches\9.0.0\transforms\520cfd96b9c0b3eddc1ff732ad7dc167\transformed\jetified-core-ktx-1.13.1\res
+com.btalert.app-jetified-viewpager2-1.0.0-9 C:\Users\lucas\.gradle\caches\9.0.0\transforms\57bec3d8833cb76cec517df60c493ad5\transformed\jetified-viewpager2-1.0.0\res
+com.btalert.app-drawerlayout-1.1.1-10 C:\Users\lucas\.gradle\caches\9.0.0\transforms\5c1272dfb5f67b2875acd253e744bae3\transformed\drawerlayout-1.1.1\res
+com.btalert.app-fragment-1.5.4-11 C:\Users\lucas\.gradle\caches\9.0.0\transforms\5fb2a4efd4b457f1fc99989dfb1eb31c\transformed\fragment-1.5.4\res
+com.btalert.app-jetified-lifecycle-process-2.6.2-12 C:\Users\lucas\.gradle\caches\9.0.0\transforms\613d9705aba8374902b8bc0aa4fdd2e0\transformed\jetified-lifecycle-process-2.6.2\res
+com.btalert.app-lifecycle-viewmodel-2.6.2-13 C:\Users\lucas\.gradle\caches\9.0.0\transforms\685f5206f2229f866c0c8518e74de997\transformed\lifecycle-viewmodel-2.6.2\res
+com.btalert.app-material-1.12.0-14 C:\Users\lucas\.gradle\caches\9.0.0\transforms\6cb525dca235ab3c73f0c0760f2e27a5\transformed\material-1.12.0\res
+com.btalert.app-jetified-activity-1.8.0-15 C:\Users\lucas\.gradle\caches\9.0.0\transforms\75672267543d5285e1fcb189e97cc4ae\transformed\jetified-activity-1.8.0\res
+com.btalert.app-jetified-lifecycle-viewmodel-savedstate-2.6.2-16 C:\Users\lucas\.gradle\caches\9.0.0\transforms\86a17dc9002dcaad519b582b329f7e18\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\res
+com.btalert.app-jetified-emoji2-1.3.0-17 C:\Users\lucas\.gradle\caches\9.0.0\transforms\89f211f252ab7dc9b40c34ce64300cc6\transformed\jetified-emoji2-1.3.0\res
+com.btalert.app-constraintlayout-2.0.1-18 C:\Users\lucas\.gradle\caches\9.0.0\transforms\91aa026565a196a43a75b1b8306eba72\transformed\constraintlayout-2.0.1\res
+com.btalert.app-core-1.13.1-19 C:\Users\lucas\.gradle\caches\9.0.0\transforms\9b29cfbf26c483e68370ff66ace36c57\transformed\core-1.13.1\res
+com.btalert.app-jetified-emoji2-views-helper-1.3.0-20 C:\Users\lucas\.gradle\caches\9.0.0\transforms\b3f8a708d77f346b6e313ef17734c52d\transformed\jetified-emoji2-views-helper-1.3.0\res
+com.btalert.app-cardview-1.0.0-21 C:\Users\lucas\.gradle\caches\9.0.0\transforms\c2d68f1c54c5a8edacee796fd5da7622\transformed\cardview-1.0.0\res
+com.btalert.app-jetified-startup-runtime-1.1.1-22 C:\Users\lucas\.gradle\caches\9.0.0\transforms\c591e1900b15e9c484248603cc59bf1d\transformed\jetified-startup-runtime-1.1.1\res
+com.btalert.app-recyclerview-1.1.0-23 C:\Users\lucas\.gradle\caches\9.0.0\transforms\e07e8f57ea57bfadcc7a009bd8e0b1f8\transformed\recyclerview-1.1.0\res
+com.btalert.app-jetified-annotation-experimental-1.4.0-24 C:\Users\lucas\.gradle\caches\9.0.0\transforms\e61dc869f9180cd0ce6f77dca7ebcdec\transformed\jetified-annotation-experimental-1.4.0\res
+com.btalert.app-coordinatorlayout-1.1.0-25 C:\Users\lucas\.gradle\caches\9.0.0\transforms\fd93c0e1c075abb786b2b16e6643310f\transformed\coordinatorlayout-1.1.0\res
+com.btalert.app-lifecycle-runtime-2.6.2-26 C:\Users\lucas\.gradle\caches\9.0.0\transforms\ffa8511e434983538b90b9cc2fcf04ef\transformed\lifecycle-runtime-2.6.2\res
+com.btalert.app-pngs-27 C:\Users\lucas\OneDrive\Área de Trabalho\projeto3\app\build\generated\res\pngs\debug
+com.btalert.app-resValues-28 C:\Users\lucas\OneDrive\Área de Trabalho\projeto3\app\build\generated\res\resValues\debug
+com.btalert.app-packageDebugResources-29 C:\Users\lucas\OneDrive\Área de Trabalho\projeto3\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.btalert.app-packageDebugResources-30 C:\Users\lucas\OneDrive\Área de Trabalho\projeto3\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.btalert.app-debug-31 C:\Users\lucas\OneDrive\Área de Trabalho\projeto3\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.btalert.app-debug-32 C:\Users\lucas\OneDrive\Área de Trabalho\projeto3\app\src\debug\res
+com.btalert.app-main-33 C:\Users\lucas\OneDrive\Área de Trabalho\projeto3\app\src\main\res

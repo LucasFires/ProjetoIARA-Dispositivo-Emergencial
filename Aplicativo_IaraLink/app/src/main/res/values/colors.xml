@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Cores gerais -->
+    <color name="background">#FFD6B2</color>
+    <color name="header_bg">#4A90D9</color>
+    <color name="card_blue">#4A90D9</color>
+    <color name="card_message_bg">#F0F0F0</color>
+    <color name="card_background">#FFFFFF</color>
+
+    <!-- Botões -->
+    <color name="btn_add">#2E7D32</color>
+    <color name="btn_edit">#E65100</color>
+    <color name="btn_remove">#B71C1C</color>
+    <color name="btn_save">#1565C0</color>
+
+    <!-- Texto -->
+    <color name="text_primary">#1A1A1A</color>
+    <color name="text_secondary">#555555</color>
+    <color name="text_white">#FFFFFF</color>
+
+    <!-- Internos -->
+    <color name="primary">#1565C0</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="accent_green">#2E7D32</color>
+    <color name="accent_red">#B71C1C</color>
+    <color name="divider">#E0E0E0</color>
+
+</resources>

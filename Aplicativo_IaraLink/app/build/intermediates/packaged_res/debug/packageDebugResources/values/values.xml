@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_green">#2E7D32</color>
+    <color name="accent_red">#B71C1C</color>
+    <color name="background">#FFD6B2</color>
+    <color name="btn_add">#2E7D32</color>
+    <color name="btn_edit">#E65100</color>
+    <color name="btn_remove">#B71C1C</color>
+    <color name="btn_save">#1565C0</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="card_blue">#4A90D9</color>
+    <color name="card_message_bg">#F0F0F0</color>
+    <color name="divider">#E0E0E0</color>
+    <color name="header_bg">#4A90D9</color>
+    <color name="primary">#1565C0</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="text_primary">#1A1A1A</color>
+    <color name="text_secondary">#555555</color>
+    <color name="text_white">#FFFFFF</color>
+    <string name="app_name">IaraLink</string>
+    <style name="BotaoPadrao" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@null</item>
+        <item name="android:textColor">@color/text_white</item>
+    </style>
+    <style name="Theme.BTAlert" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/btn_save</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:statusBarColor">@color/header_bg</item>
+        <item name="android:windowLightStatusBar">false</item>
+
+        
+        <item name="materialButtonStyle">@style/BotaoPadrao</item>
+    </style>
+</resources>

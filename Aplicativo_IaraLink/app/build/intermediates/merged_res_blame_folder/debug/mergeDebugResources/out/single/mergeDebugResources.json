@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "com.btalert.app-debug-31:/mipmap-xhdpi_icone.webp.flat",
+        "source": "com.btalert.app-main-33:/mipmap-xhdpi/icone.webp"
+    },
+    {
+        "merged": "com.btalert.app-debug-31:/drawable_ic_bluetooth.xml.flat",
+        "source": "com.btalert.app-main-33:/drawable/ic_bluetooth.xml"
+    },
+    {
+        "merged": "com.btalert.app-debug-31:/drawable_bg_status_pill.xml.flat",
+        "source": "com.btalert.app-main-33:/drawable/bg_status_pill.xml"
+    },
+    {
+        "merged": "com.btalert.app-debug-31:/drawable_bg_text_field.xml.flat",
+        "source": "com.btalert.app-main-33:/drawable/bg_text_field.xml"
+    },
+    {
+        "merged": "com.btalert.app-debug-31:/drawable_bg_contact_area.xml.flat",
+        "source": "com.btalert.app-main-33:/drawable/bg_contact_area.xml"
+    },
+    {
+        "merged": "com.btalert.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.btalert.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.btalert.app-debug-31:/drawable_ic_person.xml.flat",
+        "source": "com.btalert.app-main-33:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "com.btalert.app-debug-31:/mipmap-xxhdpi_icone_foreground.webp.flat",
+        "source": "com.btalert.app-main-33:/mipmap-xxhdpi/icone_foreground.webp"
+    },
+    {
+        "merged": "com.btalert.app-debug-31:/mipmap-xxxhdpi_icone_foreground.webp.flat",
+        "source": "com.btalert.app-main-33:/mipmap-xxxhdpi/icone_foreground.webp"
+    },
+    {
+        "merged": "com.btalert.app-debug-31:/mipmap-xxxhdpi_icone.webp.flat",
+        "source": "com.btalert.app-main-33:/mipmap-xxxhdpi/icone.webp"
+    },
+    {
+        "merged": "com.btalert.app-debug-31:/mipmap-mdpi_icone_round.webp.flat",
+        "source": "com.btalert.app-main-33:/mipmap-mdpi/icone_round.webp"
+    },
+    {
+        "merged": "com.btalert.app-debug-31:/drawable_bg_btn_save.xml.flat",
+        "source": "com.btalert.app-main-33:/drawable/bg_btn_save.xml"
+    },
+    {
+        "merged": "com.btalert.app-debug-31:/mipmap-mdpi_icone_foreground.webp.flat",
+        "source": "com.btalert.app-main-33:/mipmap-mdpi/icone_foreground.webp"
+    },
+    {
+        "merged": "com.btalert.app-debug-31:/font_nunito_extrabold.ttf.flat",
+        "source": "com.btalert.app-main-33:/font/nunito_extrabold.ttf"
+    },
+    {
+        "merged": "com.btalert.app-debug-31:/mipmap-xhdpi_icone_foreground.webp.flat",
+        "source": "com.btalert.app-main-33:/mipmap-xhdpi/icone_foreground.webp"
+    },
+    {
+        "merged": "com.btalert.app-debug-31:/drawable_bg_card_message.xml.flat",
+        "source": "com.btalert.app-main-33:/drawable/bg_card_message.xml"
+    },
+    {
+        "merged": "com.btalert.app-debug-31:/drawable_bg_card_blue.xml.flat",
+        "source": "com.btalert.app-main-33:/drawable/bg_card_blue.xml"
+    },
+    {
+        "merged": "com.btalert.app-debug-31:/mipmap-mdpi_icone.webp.flat",
+        "source": "com.btalert.app-main-33:/mipmap-mdpi/icone.webp"
+    },
+    {
+        "merged": "com.btalert.app-debug-31:/drawable_bg_avatar.xml.flat",
+        "source": "com.btalert.app-main-33:/drawable/bg_avatar.xml"
+    },
+    {
+        "merged": "com.btalert.app-debug-31:/drawable_bg_btn_add.xml.flat",
+        "source": "com.btalert.app-main-33:/drawable/bg_btn_add.xml"
+    },
+    {
+        "merged": "com.btalert.app-debug-31:/drawable_bg_log_area.xml.flat",
+        "source": "com.btalert.app-main-33:/drawable/bg_log_area.xml"
+    },
+    {
+        "merged": "com.btalert.app-debug-31:/mipmap-xxxhdpi_icone_round.webp.flat",
+        "source": "com.btalert.app-main-33:/mipmap-xxxhdpi/icone_round.webp"
+    },
+    {
+        "merged": "com.btalert.app-debug-31:/drawable_bg_header.xml.flat",
+        "source": "com.btalert.app-main-33:/drawable/bg_header.xml"
+    },
+    {
+        "merged": "com.btalert.app-debug-31:/mipmap-hdpi_icone.webp.flat",
+        "source": "com.btalert.app-main-33:/mipmap-hdpi/icone.webp"
+    },
+    {
+        "merged": "com.btalert.app-debug-31:/drawable_sunflower.png.flat",
+        "source": "com.btalert.app-main-33:/drawable/sunflower.png"
+    },
+    {
+        "merged": "com.btalert.app-debug-31:/mipmap-xxhdpi_icone_round.webp.flat",
+        "source": "com.btalert.app-main-33:/mipmap-xxhdpi/icone_round.webp"
+    },
+    {
+        "merged": "com.btalert.app-debug-31:/mipmap-xxhdpi_icone.webp.flat",
+        "source": "com.btalert.app-main-33:/mipmap-xxhdpi/icone.webp"
+    },
+    {
+        "merged": "com.btalert.app-debug-31:/mipmap-hdpi_icone_round.webp.flat",
+        "source": "com.btalert.app-main-33:/mipmap-hdpi/icone_round.webp"
+    },
+    {
+        "merged": "com.btalert.app-debug-31:/drawable_bg_btn_remove.xml.flat",
+        "source": "com.btalert.app-main-33:/drawable/bg_btn_remove.xml"
+    },
+    {
+        "merged": "com.btalert.app-debug-31:/mipmap-hdpi_icone_foreground.webp.flat",
+        "source": "com.btalert.app-main-33:/mipmap-hdpi/icone_foreground.webp"
+    },
+    {
+        "merged": "com.btalert.app-debug-31:/mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "com.btalert.app-main-33:/mipmap-hdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.btalert.app-debug-31:/mipmap-xhdpi_icone_round.webp.flat",
+        "source": "com.btalert.app-main-33:/mipmap-xhdpi/icone_round.webp"
+    },
+    {
+        "merged": "com.btalert.app-debug-31:/drawable_bg_status_dot.xml.flat",
+        "source": "com.btalert.app-main-33:/drawable/bg_status_dot.xml"
+    },
+    {
+        "merged": "com.btalert.app-debug-31:/drawable_bg_btn_edit.xml.flat",
+        "source": "com.btalert.app-main-33:/drawable/bg_btn_edit.xml"
+    }
+]
