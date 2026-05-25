@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.BTAlert" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/btn_save</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:statusBarColor">@color/header_bg</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
