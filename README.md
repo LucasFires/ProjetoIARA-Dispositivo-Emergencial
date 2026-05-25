@@ -86,3 +86,14 @@ O ciclo de desenvolvimento seguiu uma abordagem prática e iterativa:
 
 
 \---//---
+
+
+
+##### Como usar o APP
+
+1. **Ative o Bluetooth** no celular
+2. Abra o APP **IaraLink**
+3. Conceda todas as permissões solicitadas
+4. Toque em **Adicionar** → selecione o contato que receberá o SMS
+5. Digite a **mensagem** no campo de texto e toque em **Salvar Mensagem**
+6. Pressione o botão no ESP32 → o SMS é enviado automaticamente!
