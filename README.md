@@ -75,6 +75,10 @@ A arquitetura de software do ecossistema IARA foi dividida em duas frentes funda
 
 
 
+![Diagrama de Classes](assets/DiagramadeClasses.jpeg)
+
+
+
 O ciclo de desenvolvimento seguiu uma abordagem prática e iterativa:
 
 
